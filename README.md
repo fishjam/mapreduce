@@ -7,8 +7,8 @@
 ### Usage
 - `go get github.com/fishjam/mapreduce`
 
-- go
-```
+- sample
+```go
 	ctx := context.Background()
 	inItemCount := 50
 	chInput := make(chan string)
